@@ -4,7 +4,7 @@
 # author: Eric Miers
 # version/date: 10/8/2018
 
-# description: Basic src file
+# description: Basic mic file
 # ---------------------
 
 #INSERT-CODE-BELOW
